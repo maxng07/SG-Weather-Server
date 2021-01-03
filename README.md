@@ -30,4 +30,4 @@ Point your browser to the IP address that is configured in config.json, http://1
 
 Example of Accessing using browser
 
-
+<img src="https://github.com/maxng07/SG-Weather-Server/blob/main/img/webpage1.png">
