@@ -8,20 +8,26 @@ Access the data either using the browser which will serve a default webpage or q
 
 ### API
 API for Weather Forecast
-http://sg-weather.kams.com.hk:8080/api/weather/?text=city
+http://127.0.0.1/api/weather/?text=city
 
-http://sg-weather.kams.com.hk:8080/api/weather/?text=all
+http://127.0.0.1/api/weather/?text=all
 
 API for PSI Readings
-http://sg-weather.kams.com.hk:8080/api/psi/
+http://127.0.0.1/api/psi/
 
 API for Air Temperature
-http://sg-weather.kams.com.hk:8080/api/temp/
+http://127.0.0.1/api/temp/
 
 API for Rainfall Readings at Rain Gauge
-http://sg-weather.kams.com.hk:8080/api/rainfall/
+http://127.0.0.1/api/rainfall/
 
 The API Server supports concurrency and multi-thread.
 
 Data are not cache and fetch direct from Govtech data.gov.sg
+
+### Accessing using Web Page
+Point your browser to the IP address that is configured in config.json, http://127.0.0.1
+
+Example of Accessing using browser
+
 
