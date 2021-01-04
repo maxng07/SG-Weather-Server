@@ -32,5 +32,5 @@ Example of Accessing using browser
 
 <img src="https://github.com/maxng07/SG-Weather-Server/blob/main/img/webpage1.png" width="300" height="500"> <img src="https://github.com/maxng07/SG-Weather-Server/blob/main/img/webpage2.png" width="300" height="500">
 
-# Roadmap
+## Roadmap
 Using device GPS location for Weather forecast
