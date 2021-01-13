@@ -34,3 +34,6 @@ Example of Accessing using browser
 
 ## Roadmap
 Using device GPS location for Weather forecast
+
+## Interpreting the data
+Refer to the Wiki Page on a guide how to read the information retrieved.
